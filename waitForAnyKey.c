@@ -1,6 +1,6 @@
 #include "header.h"
 
-char waitForKey(void)
+char waitForAnyKey(void)
 {
     int pressed;
 

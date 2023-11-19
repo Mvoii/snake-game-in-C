@@ -9,6 +9,7 @@
 
 void welcomeScreen(void);
 void clrscr(void);
+char waitForAnyKey(void);
 
 
 #endif
